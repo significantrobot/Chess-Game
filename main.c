@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "ass4.h"
+#include "chess.h"
 #define SIZE 8
 
 char fen41[] = "r1k1/4/4/1K1R";
