@@ -1,6 +1,6 @@
 #define SIZE 8
-#ifndef __ASS4_H
-#define __ASS4_H
+#ifndef __CHESS_H
+#define __CHESS_H
 
 void createBoard(char board[][SIZE], char fen[]);
 void printBoard(char board[][SIZE]);
