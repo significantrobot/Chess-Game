@@ -1,12 +1,3 @@
-/************************************************
-*YANIV LEVY
-*T.Z.316464817
-*Group 01 (Computer Science)
-*ass04
-
-*************************************************/
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
